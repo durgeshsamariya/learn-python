@@ -1,7 +1,0 @@
-# Table of content
-# Learn more at https://jupyterbook.org/customize/toc.html
-#
-- file: README
-  sections:
-    - file: chapters/01-introduction
-
