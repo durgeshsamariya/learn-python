@@ -3,7 +3,7 @@ Welcome to Learn Python Programming Book
 
 By **Durgesh Samariya**
 
-Welcome to Learn Python Programming by Durgesh Samariya. With this book, I aim to provide introduction to everything you need to know as a beginner of Python. I'll start from basic python concepts and later move to advanced topics. 
+Welcome to Learn Python Programming by Durgesh Samariya. With this book, I aim to provide an introduction to everything you need to know as a beginner in Python. I'll start with basic python concepts and later move to advanced topics. 
 
 ## Outline
 - Introduction
@@ -20,7 +20,7 @@ Welcome to Learn Python Programming by Durgesh Samariya. With this book, I aim t
 - Functions
 
 ## Audience
-This Python tutorial is designed for any one who wants to learn Python programming language from scratch.
+This Python tutorial is designed for anyone who wants to learn Python programming language from scratch.
 
 ## Prerequisites
 A basic understanding of any of the programming languages is a plus.
