@@ -8,7 +8,7 @@ Welcome to Learn Python Programming by Durgesh Samariya. With this book, I aim t
 ## Outline
 - Introduction
     - Installation
-    - Basic Syntex
+    - Basic Syntax
     - Variables
     - Operators
     - Numbers
